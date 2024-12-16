@@ -33,6 +33,7 @@ We warmly welcome contributions to this project! If you know of any profane word
 ### Guidelines for Contributions
 
 - Only add words or phrases that are widely recognized as profane in English.
+- All words must be in **LOWERCASE**.
 - Avoid duplicating existing entries.
 - Ensure the JSON file remains valid and properly formatted.
 - If you have suggestions for organizing the list (e.g., categories), feel free to open an issue to discuss them.
